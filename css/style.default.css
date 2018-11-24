@@ -25,7 +25,7 @@
 
 section {
   /*padding: 7rem 0;*/
-  padding: 3rem 0;
+  padding: 2rem 0;
 }
 
 strong {
@@ -177,10 +177,10 @@ nav.navbar .dropdown-menu {
 * =====================================================
 */
 footer.main-footer {
-  padding: 3rem 0;
+  /*padding: 1rem;*/
   background: #272727;
   color: #fff;
-  padding-bottom: 0;
+  /*padding-bottom: 0;*/
 }
 
 .footer-logo {
@@ -1354,6 +1354,7 @@ h1,
 h2,
 .h2 {
   font-size: 2rem;
+  font-weight: normal;
 }
 
 h3,

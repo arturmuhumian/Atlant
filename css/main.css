@@ -84,8 +84,14 @@
 	z-index: 100;
 	transition: 0.5s;
 }
-.btnMyStyle{
-	z-index: 1001;
-	border: none;
-	font-size: 25px;
+
+.MyDesBtn{
+    width: auto;
+    background-color: #1da646;
+    border-radius: 20px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: none;
+    content: '1s';
 }
