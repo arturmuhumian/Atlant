@@ -33,9 +33,9 @@ strong {
 }
 
 a {
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  display: inline-block;
+  /*-webkit-transition: all 0.3s;*/
+  /*transition: all 0.3s;*/
+  /*display: inline-block;*/
 }
 
 .modal {
@@ -1317,14 +1317,18 @@ body {
 }
 
 a {
-  color: #272727;
+  /*color: #272727;*/
+  /*text-decoration: none;*/
+  /*-webkit-transition: all 0.2s ease-in-out;*/
+  /*transition: all 0.2s ease-in-out;*/
+  /*color: #272727;*/
   text-decoration: none;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
 }
 
 a:hover, a:focus {
-  color: #2a5d2b;
+  /*color: #272727;*/
+  text-decoration: none;
+  color: #676767;
 }
 
 h1,
@@ -1355,6 +1359,7 @@ h2,
 .h2 {
   font-size: 2rem;
   font-weight: normal;
+  margin-bottom: 2rem;
 }
 
 h3,
