@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a83951e6-e50d-4b4d-a104-a6c1eb13051a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/furniture.html" beforeDir="false" afterPath="$PROJECT_DIR$/furniture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/mebel/portfolio/preview_3150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mebel/portfolio/preview_3150.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a83951e6-e50d-4b4d-a104-a6c1eb13051a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,12 +241,12 @@
       <workItem from="1542839669795" duration="4956000" />
       <workItem from="1542897848714" duration="15673000" />
       <workItem from="1542978138095" duration="204000" />
-      <workItem from="1543003459225" duration="35501000" />
+      <workItem from="1543003459225" duration="35970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65616000" />
+    <option name="totallyTimeSpent" value="66085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
