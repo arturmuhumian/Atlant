@@ -159,9 +159,10 @@
                 <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/preview_3150.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/preview_3150.jpg" alt="image" class="img-fluid"></a></div>
                 <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/01.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/01.jpg" alt="image" class="img-fluid"></a></div>
                 <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/03.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/03.jpg" alt="image" class="img-fluid"></a></div>
-                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/preview_3150.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/preview_3150.jpg" alt="image" class="img-fluid"></a></div>
-                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/preview_3150.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/preview_3150.jpg" alt="image" class="img-fluid"></a></div>
-                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/01.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/01.jpg" alt="image" class="img-fluid"></a></div>
+                
+                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/4.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/4.jpg" alt="image" class="img-fluid"></a></div>
+                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/5.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/5.jpg" alt="image" class="img-fluid"></a></div>
+                <div class="col-lg-4 p-0"><a href="img/mebel/portfolio/6.jpg" data-lightbox="image-1" data-title="" class="portfolio-item"><img src="img/mebel/portfolio/6.jpg" alt="image" class="img-fluid"></a></div>
         </div>
     </div>
 </section>
